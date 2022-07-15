@@ -7,7 +7,7 @@ tags:
   - Experimental
 ---
 ## Introduction
-This experimental project was undertaken during the 2020/2019 academic year. It was the second laboratory project of the course Experimental Physics 2 that I took as part of my degree in Theoretical Physics at the University of Edinburgh.
+This experimental project was undertaken during the 2021/2020 academic year. It was the second laboratory project of the course Experimental Physics 2 that I took as part of my degree in Theoretical Physics at the University of Edinburgh.
 
 This project explores the effect that the mass of a pendulum has on its motion. Different masses were attatched to the pendulum to try to determine the effect of mass on the damping. The project was particularly focussed on determining the parameter γ for each mass and combining them to produce an estimate of b (mass independent).
 
