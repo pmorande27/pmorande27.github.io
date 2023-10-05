@@ -16,8 +16,8 @@ with an example of how Markov Chain Monte Carlo can be used to analyse the Quant
 using the Path Integral Formalism. Finally, the report concludes with an introduction to Lattice Field Theory, which uses many of the concepts introduced in the example of the Harmonic Oscillator. The final chapter
 includes some calculations of Lattice QCD in the Quenched approximation.
 ## Report
-<object data="/assets/Usual_and_unusual_perturbative_expansion_parameters_in_quantum_mechanics (55).pdf" type="application/pdf" width="750px" height="750px">
+<object data="/assets/Summer_Project.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="/assets/Summer_Project.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href=/assets/Lab_Report_2.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href=/assets/Summer_Project.pdf">Download PDF</a>.</p>
     </embed>
 </object>
